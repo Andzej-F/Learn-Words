@@ -4,7 +4,7 @@ public class UMLPlan {
 
 1. Practice
   -----Select the file from the list------
-  1. Animals EN-LT.txt
+  1. AnimalsData EN-LT.txt
   2. Fruits EN-LT.txt
   3. Clothes LT-EN.txt
   Enter a selection number:
@@ -18,7 +18,7 @@ public class UMLPlan {
 2. Create vocabulary
 3. Edit vocabulary
  -----Select the file from the list------
-  1. Animals EN-LT.txt
+  1. AnimalsData EN-LT.txt
   2. Fruits EN-LT.txt
   3. Clothes LT-EN.txt
 4. Upload a file

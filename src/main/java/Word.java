@@ -18,9 +18,6 @@ public class Word {
 
   @Override
   public String toString() {
-    return "Word{" +
-            "original='" + original + '\'' +
-            ", translation='" + translation + '\'' +
-            '}';
+    return "%s = %s %n".formatted(original, translation);
   }
 }
